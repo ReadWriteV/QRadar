@@ -1,0 +1,10 @@
+.vscode/
+
+.qmake.stash
+
+Makefile*
+
+release/
+
+debug/
+
